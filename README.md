@@ -10,7 +10,7 @@ Create a Todo App which have All CRUD Functionalities
 > All todos should be displayed in Card
 > There should be filter to display status completed, not completed and
 
-output: https://sha-my-todos.netlify.app
+output: https://sathyagar-todo.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
